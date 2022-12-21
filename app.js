@@ -80,7 +80,7 @@ app.get("/", function (req, res) {
       });
       res.redirect("/"); //This time directed to root route with three items.
     } else {
-      res.render("list", { listTitle: "Today", newListItem: items });
+      res.render("list", { listTitle: "Main Items", newListItem: items });
     }
   });
 });
