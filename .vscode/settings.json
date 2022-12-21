@@ -1,0 +1,5 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "javascript.suggest.completeFunctionCalls": true
+}
